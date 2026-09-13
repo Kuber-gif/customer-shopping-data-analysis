@@ -1,0 +1,123 @@
+Customer_ID,Age,Gender,City,Product,Category,Quantity,Price,Purchase_Date,Payment_Method,Total_Sales,Month
+1001,46.0,Male,Mumbai,Headphones,Audio,5.0,799.0,2025-04-13,Credit Card,3995.0,4
+1002,40.0,Male,Mumbai,Keyboard,Accessories,5.0,599.0,2025-04-14,Cash,2995.0,4
+1003,39.0,Male,Delhi,Keyboard,Accessories,4.0,999.0,2025-02-07,Credit Card,3996.0,2
+1004,38.0,Male,Bangalore,Headphones,Audio,2.0,999.0,2025-03-30,UPI,1998.0,3
+1005,59.0,Female,Bangalore,Keyboard,Accessories,4.0,1999.0,2025-01-15,Credit Card,7996.0,1
+1006,20.0,Male,Mumbai,Webcam,Electronics,5.0,299.0,2025-06-16,Credit Card,1495.0,6
+1007,42.0,Female,Hyderabad,Headphones,Audio,2.0,799.0,2025-01-09,Credit Card,1598.0,1
+1008,19.0,Female,Bangalore,USB Cable,Accessories,4.0,1499.0,2025-06-21,UPI,5996.0,6
+1009,31.0,Male,Unknown,Keyboard,Accessories,2.0,1999.0,2025-05-12,Credit Card,3998.0,5
+1010,23.0,Female,Delhi,Webcam,Electronics,4.0,999.0,2025-05-26,Credit Card,3996.0,5
+1011,51.0,Female,Hyderabad,Headphones,Audio,4.0,999.0,2025-04-05,Cash,3996.0,4
+1012,40.0,Female,Raipur,Webcam,Electronics,5.0,1999.0,2025-03-23,Debit Card,9995.0,3
+1013,41.0,Female,Raipur,USB Cable,Accessories,4.0,599.0,2025-05-04,Unknown,2396.0,5
+1014,46.0,Male,Pune,Laptop Bag,Accessories,1.0,299.0,2025-03-12,UPI,299.0,3
+1015,25.0,Female,Mumbai,Laptop Bag,Accessories,3.0,299.0,2025-05-16,Debit Card,897.0,5
+1016,50.0,Male,Pune,Keyboard,Accessories,2.0,1499.0,2025-02-10,Cash,2998.0,2
+1017,25.0,Female,Delhi,Laptop Bag,Accessories,1.0,1999.0,2025-05-31,Credit Card,1999.0,5
+1018,38.0,Female,Hyderabad,USB Cable,Accessories,3.0,499.0,2025-04-11,Debit Card,1497.0,4
+1019,20.0,Male,Pune,Webcam,Electronics,2.0,1499.0,2025-05-22,Debit Card,2998.0,5
+1020,26.0,Male,Delhi,Keyboard,Accessories,2.0,599.0,2025-06-28,Debit Card,1198.0,6
+1021,49.0,Female,Hyderabad,Laptop Bag,Accessories,5.0,1499.0,2025-05-23,Debit Card,7495.0,5
+1022,53.0,Male,Mumbai,USB Cable,Accessories,3.0,999.0,2025-01-28,Credit Card,2997.0,1
+1023,23.0,Female,Bangalore,Wireless Mouse,Accessories,4.0,599.0,2025-03-25,Credit Card,2396.0,3
+1024,28.0,Female,Delhi,Webcam,Electronics,4.0,299.0,2025-05-09,UPI,1196.0,5
+1025,30.0,Male,Mumbai,Keyboard,Accessories,3.0,299.0,2025-03-03,UPI,897.0,3
+1026,59.0,Female,Mumbai,Laptop Bag,Accessories,1.0,599.0,2025-04-23,Credit Card,599.0,4
+1027,29.0,Female,Delhi,Laptop Bag,Accessories,3.0,299.0,2025-04-11,UPI,897.0,4
+1028,19.0,Female,Bangalore,Laptop Bag,Accessories,5.0,1999.0,2025-05-09,Debit Card,9995.0,5
+1029,19.0,Male,Bangalore,Webcam,Electronics,2.0,1999.0,2025-06-09,Debit Card,3998.0,6
+1030,28.0,Female,Mumbai,Headphones,Audio,1.0,1499.0,2025-02-07,Cash,1499.0,2
+1031,51.0,Female,Hyderabad,USB Cable,Accessories,3.0,1499.0,2025-05-24,UPI,4497.0,5
+1032,23.0,Female,Pune,Laptop Bag,Accessories,3.0,599.0,2025-06-13,Debit Card,1797.0,6
+1033,20.0,Male,Mumbai,Wireless Mouse,Accessories,4.0,1999.0,2025-02-21,UPI,7996.0,2
+1034,57.0,Female,Delhi,Laptop Bag,Accessories,1.0,499.0,2025-06-27,Debit Card,499.0,6
+1035,38.0,Male,Bangalore,Webcam,Electronics,2.0,1999.0,2025-03-01,UPI,3998.0,3
+1036,18.0,Female,Hyderabad,Wireless Mouse,Accessories,4.0,799.0,2025-02-06,Cash,3196.0,2
+1037,26.0,Male,Mumbai,Keyboard,Accessories,3.0,1999.0,2025-05-11,Cash,5997.0,5
+1038,50.0,Female,Bangalore,Webcam,Electronics,3.0,299.0,2025-06-13,Credit Card,897.0,6
+1039,52.0,Female,Hyderabad,Headphones,Audio,1.0,799.0,2025-06-02,UPI,799.0,6
+1040,35.0,Female,Hyderabad,Wireless Mouse,Accessories,3.0,1999.0,2025-06-18,Cash,5997.0,6
+1041,21.0,Male,Hyderabad,Laptop Bag,Accessories,5.0,1999.0,2025-05-28,Cash,9995.0,5
+1042,34.0,Female,Unknown,Keyboard,Accessories,4.0,499.0,2025-04-25,Credit Card,1996.0,4
+1043,47.0,Female,Hyderabad,Webcam,Electronics,5.0,499.0,2025-01-08,Debit Card,2495.0,1
+1044,51.0,Male,Hyderabad,Keyboard,Accessories,1.0,599.0,2025-04-21,Cash,599.0,4
+1045,22.0,Female,Pune,Laptop Bag,Accessories,3.0,599.0,2025-02-04,Cash,1797.0,2
+1046,34.0,Female,Bangalore,Laptop Bag,Accessories,5.0,999.0,2025-04-27,Credit Card,4995.0,4
+1047,58.0,Male,Pune,Keyboard,Accessories,1.0,999.0,2025-06-30,Debit Card,999.0,6
+1048,50.0,Female,Pune,Keyboard,Accessories,5.0,1999.0,2025-06-10,Cash,9995.0,6
+1049,35.0,Male,Delhi,Keyboard,Accessories,2.0,499.0,2025-04-14,Credit Card,998.0,4
+1050,49.0,Male,Hyderabad,Wireless Mouse,Accessories,2.0,1499.0,2025-06-04,Credit Card,2998.0,6
+1051,43.0,Male,Raipur,Wireless Mouse,Accessories,1.0,499.0,2025-06-25,Debit Card,499.0,6
+1052,59.0,Male,Delhi,USB Cable,Accessories,3.0,399.0,2025-06-02,Cash,1197.0,6
+1053,24.0,Male,Bangalore,USB Cable,Accessories,5.0,599.0,2025-03-06,Cash,2995.0,3
+1054,33.0,Female,Bangalore,Webcam,Electronics,3.0,1499.0,2025-05-23,Cash,4497.0,5
+1055,19.0,Female,Hyderabad,Wireless Mouse,Accessories,3.0,299.0,2025-03-04,Credit Card,897.0,3
+1056,39.0,Female,Delhi,USB Cable,Accessories,1.0,599.0,2025-06-19,Credit Card,599.0,6
+1057,60.0,Female,Pune,Webcam,Electronics,1.0,1999.0,2025-02-22,Cash,1999.0,2
+1058,22.0,Male,Bangalore,Headphones,Audio,5.0,1999.0,2025-04-26,Unknown,9995.0,4
+1059,57.0,Female,Pune,Keyboard,Accessories,2.0,599.0,2025-04-16,Credit Card,1198.0,4
+1060,34.0,Female,Mumbai,Keyboard,Accessories,4.0,399.0,2025-03-31,UPI,1596.0,3
+1061,40.0,Male,Raipur,Wireless Mouse,Accessories,4.0,799.0,2025-05-09,Credit Card,3196.0,5
+1062,18.0,Male,Delhi,Wireless Mouse,Accessories,1.0,1999.0,2025-04-27,UPI,1999.0,4
+1063,56.0,Female,Pune,USB Cable,Accessories,5.0,1499.0,2025-03-17,Credit Card,7495.0,3
+1064,54.0,Female,Raipur,Keyboard,Accessories,5.0,999.0,2025-03-10,Debit Card,4995.0,3
+1065,38.0,Female,Hyderabad,Laptop Bag,Accessories,4.0,799.0,2025-05-24,Credit Card,3196.0,5
+1066,38.0,Male,Bangalore,Wireless Mouse,Accessories,1.0,999.0,2025-04-11,Debit Card,999.0,4
+1067,27.0,Female,Pune,Wireless Mouse,Accessories,4.0,399.0,2025-06-29,Debit Card,1596.0,6
+1068,36.0,Female,Raipur,Wireless Mouse,Accessories,5.0,799.0,2025-01-04,Cash,3995.0,1
+1069,45.0,Female,Mumbai,Wireless Mouse,Accessories,4.0,1999.0,2025-05-20,Credit Card,7996.0,5
+1070,50.0,Male,Pune,Keyboard,Accessories,3.0,499.0,2025-04-11,Cash,1497.0,4
+1071,18.0,Male,Delhi,Keyboard,Accessories,3.0,599.0,2025-01-29,UPI,1797.0,1
+1072,48.0,Female,Delhi,Headphones,Audio,5.0,499.0,2025-02-04,Debit Card,2495.0,2
+1073,43.0,Female,Pune,Laptop Bag,Accessories,3.0,399.0,2025-03-31,Credit Card,1197.0,3
+1074,58.0,Male,Bangalore,Wireless Mouse,Accessories,2.0,799.0,2025-04-24,UPI,1598.0,4
+1075,46.0,Female,Bangalore,Keyboard,Accessories,1.0,799.0,2025-06-13,Credit Card,799.0,6
+1076,26.0,Female,Mumbai,USB Cable,Accessories,1.0,499.0,2025-02-05,Credit Card,499.0,2
+1077,56.0,Female,Hyderabad,Laptop Bag,Accessories,5.0,599.0,2025-04-23,Debit Card,2995.0,4
+1078,40.0,Male,Mumbai,USB Cable,Accessories,1.0,999.0,2025-01-17,UPI,999.0,1
+1079,37.0,Female,Raipur,Webcam,Electronics,5.0,499.0,2025-01-19,UPI,2495.0,1
+1081,31.0,Male,Bangalore,Headphones,Audio,3.0,399.0,2025-04-21,Cash,1197.0,4
+1082,22.0,Male,Bangalore,USB Cable,Accessories,1.0,599.0,2025-05-03,UPI,599.0,5
+1083,40.0,Female,Raipur,Headphones,Audio,5.0,799.0,2025-02-11,Credit Card,3995.0,2
+1084,48.0,Female,Pune,Webcam,Electronics,3.0,1499.0,2025-03-16,Credit Card,4497.0,3
+1085,26.0,Female,Delhi,Headphones,Audio,4.0,299.0,2025-01-07,Credit Card,1196.0,1
+1086,57.0,Female,Raipur,USB Cable,Accessories,2.0,499.0,2025-05-02,Credit Card,998.0,5
+1087,46.0,Male,Hyderabad,USB Cable,Accessories,3.0,1999.0,2025-04-19,UPI,5997.0,4
+1088,34.0,Male,Raipur,Webcam,Electronics,5.0,599.0,2025-02-05,Credit Card,2995.0,2
+1089,48.0,Male,Pune,Headphones,Audio,4.0,999.0,2025-06-16,Debit Card,3996.0,6
+1090,43.0,Male,Hyderabad,Wireless Mouse,Accessories,3.0,799.0,2025-05-21,Credit Card,2397.0,5
+1091,37.0,Female,Pune,Headphones,Audio,1.0,1499.0,2025-01-01,Debit Card,1499.0,1
+1092,45.0,Female,Raipur,USB Cable,Accessories,4.0,299.0,2025-06-02,Cash,1196.0,6
+1093,55.0,Male,Hyderabad,Laptop Bag,Accessories,2.0,599.0,2025-06-22,Cash,1198.0,6
+1094,38.0,Female,Hyderabad,USB Cable,Accessories,5.0,499.0,2025-06-13,Unknown,2495.0,6
+1095,37.0,Male,Delhi,Keyboard,Accessories,1.0,299.0,2025-01-14,Debit Card,299.0,1
+1096,20.0,Female,Raipur,Laptop Bag,Accessories,3.0,599.0,2025-03-15,Cash,1797.0,3
+1097,29.0,Female,Bangalore,Webcam,Electronics,5.0,1999.0,2025-05-02,Cash,9995.0,5
+1098,43.0,Female,Delhi,Headphones,Audio,4.0,399.0,2025-01-28,Cash,1596.0,1
+1099,58.0,Female,Mumbai,USB Cable,Accessories,1.0,299.0,2025-06-10,UPI,299.0,6
+1100,30.0,Female,Pune,Headphones,Audio,5.0,999.0,2025-02-04,UPI,4995.0,2
+1101,35.0,Male,Pune,Webcam,Electronics,1.0,399.0,2025-01-10,Cash,399.0,1
+1102,22.0,Male,Raipur,Webcam,Electronics,1.0,399.0,2025-06-26,Debit Card,399.0,6
+1103,43.0,Male,Raipur,USB Cable,Accessories,3.0,499.0,2025-06-26,UPI,1497.0,6
+1104,51.0,Male,Mumbai,Laptop Bag,Accessories,1.0,799.0,2025-02-24,Credit Card,799.0,2
+1105,34.0,Male,Pune,Headphones,Audio,3.0,799.0,2025-01-23,UPI,2397.0,1
+1106,54.0,Female,Delhi,USB Cable,Accessories,3.0,299.0,2025-03-26,Credit Card,897.0,3
+1107,18.0,Male,Pune,Laptop Bag,Accessories,5.0,599.0,2025-04-23,Cash,2995.0,4
+1108,45.0,Male,Delhi,Wireless Mouse,Accessories,2.0,399.0,2025-04-28,Debit Card,798.0,4
+1109,29.0,Male,Hyderabad,Keyboard,Accessories,4.0,799.0,2025-02-26,UPI,3196.0,2
+1110,38.0,Female,Delhi,USB Cable,Accessories,3.0,499.0,2025-04-13,Credit Card,1497.0,4
+1111,51.0,Female,Delhi,Headphones,Audio,2.0,399.0,2025-01-30,Debit Card,798.0,1
+1112,51.0,Female,Raipur,Keyboard,Accessories,1.0,1999.0,2025-03-20,Cash,1999.0,3
+1113,59.0,Male,Raipur,Webcam,Electronics,5.0,799.0,2025-05-12,Credit Card,3995.0,5
+1114,27.0,Male,Bangalore,Laptop Bag,Accessories,4.0,1999.0,2025-03-10,Credit Card,7996.0,3
+1115,19.0,Male,Hyderabad,Webcam,Electronics,3.0,499.0,2025-04-25,Debit Card,1497.0,4
+1116,40.0,Male,Mumbai,Laptop Bag,Accessories,4.0,1999.0,2025-05-12,Cash,7996.0,5
+1117,20.0,Female,Mumbai,Laptop Bag,Accessories,3.0,799.0,2025-06-09,Credit Card,2397.0,6
+1118,36.0,Male,Pune,USB Cable,Accessories,2.0,599.0,2025-06-19,UPI,1198.0,6
+1119,38.0,Female,Raipur,Webcam,Electronics,5.0,299.0,2025-01-12,Credit Card,1495.0,1
+1120,51.0,Male,Hyderabad,Webcam,Electronics,2.0,799.0,2025-06-04,UPI,1598.0,6
+1011,51.0,Female,Hyderabad,Headphones,Audio,4.0,999.0,2025-04-05,Cash,3996.0,4
+1056,39.0,Female,Delhi,USB Cable,Accessories,1.0,599.0,2025-06-19,Credit Card,599.0,6
+1091,37.0,Female,Pune,Headphones,Audio,1.0,1499.0,2025-01-01,Debit Card,1499.0,1
